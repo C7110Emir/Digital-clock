@@ -1,1 +1,1 @@
-basic digital time display
+Basic digital time display
